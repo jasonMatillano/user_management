@@ -65,5 +65,5 @@ function fillRow(user) {
     });
 
     return row;
-  }
+}
   
